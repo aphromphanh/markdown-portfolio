@@ -1,3 +1,3 @@
-Cats
-Food
-Hanging out with family
+- Cats
+- Food
+- Hanging out with family
