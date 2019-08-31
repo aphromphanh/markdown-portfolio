@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+Cats
+Food
+Hanging out with family
