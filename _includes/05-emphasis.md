@@ -1,2 +1,2 @@
-Graphic designing
-Multi-tasking
+- Graphic designing
+- Multi-tasking
